@@ -35,6 +35,7 @@
 - **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
 - **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
 - **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
+- **[React Emoji Search](https://github.com/braydentw/react-emoji-search)** - [@braydentw](https://github.com/braydentw) - **(JavaScript)** _An Emoji Searcher/copy+paster tool built with React!_
 
 ## Browser Extensions
 - **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
